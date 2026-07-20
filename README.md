@@ -1,4 +1,4 @@
-# IcePick-to-Katana-PAYDAY-2-MOD-
+
 # IcePick-to-Katana-PAYDAY-2-MOD-
 
 A PAYDAY 2 mod that replaces the Katana model with the Ice Pick skin.
