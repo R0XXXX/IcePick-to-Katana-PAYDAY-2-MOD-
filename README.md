@@ -32,4 +32,4 @@ This mod replaces the visual model and assets of the Katana melee weapon with th
 ## 📜 License & Credits
 
 * **Game:** PAYDAY 2 (Overkill Software / Starbreeze Studios)
-* **Author:** R0XXXX
+* **Credits to il-Cuoio-Capelluto**
